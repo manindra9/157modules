@@ -1,0 +1,20 @@
+{
+  "CHANGELOG.md": "4241faa4551567648f57ce841c853754",
+  "DEVELOPMENT.md": "4575979bbebe536b41b1cd2b4e879948",
+  "Jenkinsfile": "4a9eaef50e93e3971cd0ca11cbfd3958",
+  "LICENSE": "d92e60ee98664c54f68aa515a6169708",
+  "README.md": "05474a3097acf59798bdfc9686cf3e9b",
+  "lib/facter/conjur.rb": "2f4c25c6b7c38025ee397cc25d9d0ce1",
+  "lib/puppet/functions/conjur/client.rb": "7124ddec0ef1100407c3789fca263bfb",
+  "lib/puppet/functions/conjur/config_yml.rb": "e58bbe1b6c25bed7f7a9bf96c7ffeda3",
+  "lib/puppet/functions/conjur/decrypt.rb": "db122f2ca606cb8cf187ce535d533fb3",
+  "lib/puppet/functions/conjur/manufacture_host.rb": "9e460f636128e0d7d45565d8180836da",
+  "lib/puppet/functions/conjur/netrc.rb": "4b77091862ff01f2a3016c388c736b35",
+  "lib/puppet/functions/conjur/secret.rb": "4d8a35b874b7214d7a3a2a2aedcbae01",
+  "lib/puppet/functions/conjur/token.rb": "84b8de7916da5824876f9a24ea126168",
+  "manifests/config_files.pp": "44c47c52f0ee6366c5eaa2c90c0e4a69",
+  "manifests/init.pp": "15f3069153d9c58145cd67d49ce9a751",
+  "manifests/params.pp": "d71fc7a2202b4be0dd77ef606a73a343",
+  "metadata.json": "4df38473c11f7ed64e1b8bc7cd40bad8",
+  "types/endpoint.pp": "01de5afd9ad13fbb8fabe206b0ddedc1"
+}

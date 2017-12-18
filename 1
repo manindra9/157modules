@@ -1,0 +1,17 @@
+
+class createuser {
+
+user {'arushi':
+
+  name => 'Arushi_Gupta',
+  ensure => 'present',
+  password => '$redhat@123',
+  managehome => true ,
+  home => '/home/arushi',
+  #gid => '/newuser',
+  gid => 'daemon'
+
+  }
+  }
+
+
